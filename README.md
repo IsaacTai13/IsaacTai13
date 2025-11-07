@@ -3,13 +3,14 @@
 - 👾 Software engineer with 4 years of experience
 - 🎯 Focused on software development, system design, and cloud computing
 - 🔎 Check out some of my projects:
+  - [Cloud-Native Web Application](https://github.com/IsaacTai13/Cloud-Native-Web-App.git) - Java Spring Boot
+  - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai123/procurement_ecosystem.git) - Java
   - [Automation testing project with Selenium](https://github.com/IsaacTai123/selenium-java-web-automation.git) - Java
   - [Web server for a badminton club](https://github.com/IsaacTai123/BadmintonClub.git) - React
-  - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai123/procurement_ecosystem.git) - Java
 - 😁 Passionate about building scalable backend systems, exploring new tools, and deploying to the cloud.
 - 🌱 Solving problems through technology, while continuously exploring better tools and approaches.
 - 🎯 Every project is a chance to learn, experiment, and expand my technical toolkit
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hsuanhung-tai) | [Email Me](mailto:message-demur49@icloud.com?subject=Reaching%20out%20from%20GitHub&body=Hi%20Isaac,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile%20and...)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/isaactai13) | [Email Me](mailto:message-demur49@icloud.com?subject=Reaching%20out%20from%20GitHub&body=Hi%20Isaac,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile%20and...)
 
 ## 🛠️ Skills
 
